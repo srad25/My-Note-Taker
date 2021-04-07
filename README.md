@@ -15,6 +15,9 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Project Screenshots
 
+Picture of Note Taker app on Heroku
+![Screenshot](./assets/images/noteTaker0.png "pic of front page")
+
 Picture of notes page with working edit and delete icons
 
 ![Screenhot](./assets/images/noteTaker1.png "pic of notes page.")
@@ -27,3 +30,4 @@ Picture of notes page with working edit and delete icons
 ## Contact
 * https://github.com/srad25
 * https://github.com/srad25/My-Note-Taker
+* https://mynotes-taker.herokuapp.com
